@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Octavio, a bachelor's in Marine Biology and master's in Biophysics
-- 👀 I’m interested in Computational and Systems Biology
-- 💻 I have experience programming in R, MATLAB and will soon start learning Julia
-- 🧬 I'm currently an intern developing competition assays in Bacillus subtilis
-- 📫 You can reach me through my email o.reyes.matte@gmail.com
+I'm a PhD student that enjoys both wetlab (molecular biology, microbiology, microscopy) and drylab (biostatistics, image analysis, data representation) approaches to carry on my work.
+
+
+📫 You can reach me through my email o.reyes.matte@gmail.com
 
 <!---
 OReyesMatte/OReyesMatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
