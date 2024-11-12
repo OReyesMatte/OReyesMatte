@@ -4,7 +4,7 @@ I'm a PhD student that enjoys both wetlab (molecular biology, microbiology, micr
 
 💻 I try to write straightforward and easy to follow code in Python, Unix, MATLAB and R.
 
-📫 You can reach me through my email o.reyes.matte@gmail.com
+📫 You can reach me through my email reyesmatte@proton.me
 
 <!---
 OReyesMatte/OReyesMatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
