@@ -1,4 +1,4 @@
-I'm a PhD student that enjoys both wetlab (molecular biology, microbiology, microscopy) and drylab (biostatistics, image analysis, data representation) approaches to carry on my work. At the moment I would say I'm 30-70 in this relation.
+🔬 I'm a PhD student that enjoys both wetlab (molecular biology, microbiology, microscopy) and drylab (biostatistics, image analysis, data representation) approaches to carry on my work. My current passion and main interest is bio-image analysis, specially from microscopy
 
 👨‍💻 I'm mostly a "software user", using multiple tools to extract as much quantitative information as I can from different types of data from different sources. The main types of data I use are microscopy images and genomic data sequences 🔬🧬. Eventually I hope to move more towards the development end of software research
 
